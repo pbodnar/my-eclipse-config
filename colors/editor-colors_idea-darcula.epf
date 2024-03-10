@@ -1,0 +1,13 @@
+# Editor colors like in IntelliJ IDEA Darcula theme
+# =================================================
+
+# ATTENTION: This will actually NOT apply the background color if used before Eclipse 2024-03.
+# See https://github.com/eclipse-platform/eclipse.platform.ui/pull/1036 for more information.
+
+# This is targeted for the Eclipse's Dark theme, mimicking the Darcula theme from IntelliJ IDEA.
+
+file_export_version=3.0
+
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=43,43,43
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background.SystemDefault=false
+/instance/org.eclipse.ui.editors/currentLineColor=50,50,50
